@@ -35,13 +35,8 @@ I'm interested in the Trading roles and/or Risk mngmt. I'd like to work either a
 ## 3. What I Hope to Learn from This Program
 
 *In this section, describe what specific knowledge, skills, or experiences you hope to gain from the Alpha Program:*
-- *Technical skills (programming, math, statistics)*
-- *Financial concepts and trading strategies*
-- *Specific tools or platforms*
-- *Networking opportunities*
-- *How this program fits into your overall learning path*
 
-*Delete these instructions and write 100-150 words*
+I'd like to learn how to navigate GitHub properly so I can easily create and contribute to projects. I would also like to improve my understanding of VScode. I want to learn how to solve quant equations without being overwhelmed by the contents (comprehending the BS model and so on). I look forward to executing trading strategies like GARCH models or learning how to use Markov chains to generate alpha. Finally, I'd also love to meet at least 1 quant and listen to their overall experience and understand their unique views on this industry. I hope to build a relationship with a quant beyond career topics based on our interests as it's always fun to get to know others outside technial aspects. The Alpha Program fits into my learning path because it builds on top of the knowledge I've been accumulating since 9th grade and it will help me depoly and further develop skills to mold into a career. Aditionally, being in a group with like-minded individuals who have similar but different goals than me is a good experience since I can foster a space around shared interests.
 
 ## 4. Current Technical Skills
 
